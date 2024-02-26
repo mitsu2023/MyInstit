@@ -5,5 +5,7 @@
     <color name="green_blue">#00a8cc</color>
     <color name="green_night">#0c7b93</color>
     <color name="green_gray">#27496d</color>
-    <color name="green_black">#142850</color>
+    <color name="gray_black">#191e29</color>
+    <color name="blue_night">#132d46</color>
+    <color name="green">#01c38d</color>
 </resources>
