@@ -18,8 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="20dp"
-            android:src="@drawable/box_arrow_left"
-            app:tint="@color/white" />
+            android:src="@drawable/box_arrow_left"/>
 
 
         <TextView
@@ -27,7 +26,7 @@
             android:layout_height="wrap_content"
             android:padding="20dp"
             android:text="Lessons"
-            android:textColor="@color/white"
+            android:textColor="@color/green"
             android:textSize="18sp" />
     </LinearLayout>
 
@@ -62,7 +61,7 @@
             android:layout_height="wrap_content"
             android:padding="20dp"
             android:text="Cours Video"
-            android:textColor="@color/white"
+            android:textColor="@color/green"
             android:textSize="20sp" />
 
     </LinearLayout>
@@ -91,7 +90,7 @@
             android:layout_height="wrap_content"
             android:padding="20dp"
             android:text="Support Cours"
-            android:textColor="@color/white"
+            android:textColor="@color/green"
             android:textSize="20sp" />
 
     </LinearLayout>
